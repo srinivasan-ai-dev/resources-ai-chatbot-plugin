@@ -10,6 +10,7 @@ This plugin was developed as part of a Google Summer of Code 2025 project.
 
 ## Prerequisites
 
+
 - **Python**: 3.11+
 - **Build tools**: `make`, `cmake` (≥3.14), C/C++ compiler (`gcc`/`clang`/MSVC)
 - **Java**: JDK 11+ and Maven 3.6+ (for plugin development)
